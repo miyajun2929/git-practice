@@ -1,5 +1,2 @@
 hoge
-hoge
-hoge
-hoge
-hoge
+テキストエディタで変更したよ
